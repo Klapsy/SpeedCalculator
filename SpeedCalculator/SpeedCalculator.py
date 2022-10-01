@@ -53,3 +53,4 @@ elif notetype == 16:
     print('The speed is', tempo, 'notes per second.')
 else:
     print('You did something wrong... So please')
+input()
